@@ -5,7 +5,6 @@ M.defaults = {
   args = {},
   filetypes = {
     "*.csv", "*.tsv",
-    "*.json", "*.jsonl",
     "*.parquet", "*.feather", "*.arrow",
     "*.yaml", "*.yml",
     "*.xlsx", "*.xls",
