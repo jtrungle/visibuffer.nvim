@@ -6,7 +6,6 @@ M.defaults = {
   filetypes = {
     "*.csv", "*.tsv",
     "*.parquet", "*.feather", "*.arrow",
-    "*.yaml", "*.yml",
     "*.xlsx", "*.xls",
     "*.sqlite", "*.sqlite3", "*.db",
     "*.h5", "*.hdf5",
